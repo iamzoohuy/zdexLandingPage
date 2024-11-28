@@ -3,16 +3,16 @@ Final project in Web Design for Crypto project. End of Web Design module of Seme
 
 ## 📃Demo
 <p>
-  <img title='' src="./Screenshot/1" width="49%"/>
-  <img title='' style='float: right' src="./Screenshot/2" width="49%"/>
+  <img title='' src="./Screenshots/1" width="49%"/>
+  <img title='' style='float: right' src="./Screenshots/2" width="49%"/>
 </p>
 <p>
-  <img title='' src="./Screenshot/3" width="49%"/>
-  <img title='' style='float: right' src="./Screenshot/4" width="49%"/>
+  <img title='' src="./Screenshots/3" width="49%"/>
+  <img title='' style='float: right' src="./Screenshots/4" width="49%"/>
 </p>
 <p>
-  <img title='' src="./Screenshot/5.png" width="49%"/>
-  <img title='' style='float: right' src="./Screenshot/6.png" width="49%"/>
+  <img title='' src="./Screenshots/5.png" width="49%"/>
+  <img title='' style='float: right' src="./Screenshots/6.png" width="49%"/>
 </p>
 
 ## 🛠️ Built with
