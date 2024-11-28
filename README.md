@@ -1,5 +1,5 @@
 # Zdex Landing Page
-Final project in Web Design for Crypto project. End of Web Design module of Semester II at VKU.
+Final project of Web Design for Crypto project. End of Web Design module of Semester II at VKU.
 
 ## 📃Demo
 <p>
