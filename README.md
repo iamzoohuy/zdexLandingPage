@@ -1,5 +1,19 @@
 # Zdex Landing Page
-Final project in Web Design for Crypto project.
+Final project in Web Design for Crypto project. End of Web Design module of Semester II at VKU.
+
+## 📃Demo
+<p>
+  <img title='' src="./Screenshot/1" width="49%"/>
+  <img title='' style='float: right' src="./Screenshot/2" width="49%"/>
+</p>
+<p>
+  <img title='' src="./Screenshot/3" width="49%"/>
+  <img title='' style='float: right' src="./Screenshot/4" width="49%"/>
+</p>
+<p>
+  <img title='' src="./Screenshot/5.png" width="49%"/>
+  <img title='' style='float: right' src="./Screenshot/6.png" width="49%"/>
+</p>
 
 ## 🛠️ Built with
 - HTML5
@@ -25,4 +39,4 @@ I'm looking forward to receiving feedback as I develop further. Thanks for viewi
 
 ## ✨ Support
 Give a ⭐ if this project helped you!<br><br>
-<a href='https://www.buymeacoffee.com/zoohuy' target='_blank'><img style='height: 34px' src='https://i.imgur.com/Y2Ta2iz.png'/></a>
+<a href='https://www.buymeacoffee.com/zoohuyvn' target='_blank'><img style='height: 34px' src='https://i.imgur.com/Y2Ta2iz.png'/></a>
