@@ -1,5 +1,5 @@
 # Zdex Landing Page
-Final project in Web design for crypto project.
+Final project in Web Design for Crypto project.
 
 ## 🛠️ Built with
 - HTML5
