@@ -23,7 +23,7 @@ Final project in Web Design for Crypto project. End of Web Design module of Seme
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/iamzoohuy/zdexLandingPage.git
+git clone https://github.com/zoohuyvn/zdexLandingPage.git
 ```
 
 ## 👉 Usage
